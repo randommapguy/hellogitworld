@@ -7,3 +7,5 @@ Hello 3
 Hello 4
 
 Hello 5
+
+Edit from master 6
