@@ -15,6 +15,4 @@ Edit from upstream 7
 
 Edit from upstream 8
 
-Edit from upstream 9 - change on local now conflict resolved
-
-Local added this
+Edit from upstream 9 - merged local and upstream
